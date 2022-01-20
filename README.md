@@ -5,6 +5,10 @@ The e-commerce links to its MongoDB database and has a selection of products.
 Admin permissions: with API calls the administrator can add, retrieve, update and delete products and orders from the database.
 User permission: It’s possible to create an account and place an order. It’s also possible to test payment method thanks to the Stripe implementation. 
 
+## Api calls
+
+![api](https://user-images.githubusercontent.com/91989821/150238934-0d1a001a-6a5e-4746-9405-b28d54edd624.png)
+
 ## Have a look at some pics from the website
 
 ### Homepage
