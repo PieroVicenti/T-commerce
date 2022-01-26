@@ -4,10 +4,9 @@ const router = require("express").Router();
 const User = require("../models/User")
 //after installing crypto-js importing it to encrypt password
 const CryptoJS = require("crypto-js")
-// this allows us to verify if the card belongs to the customer for example, I had to install it npm i jsonwebtoken
+
 const jwt = require("jsonwebtoken")
 //REGISTER
-//post method as the user is gonna send username, pass etc.
 
 router.post("/register", async (req, res)=>{
      const newUser = new User({
