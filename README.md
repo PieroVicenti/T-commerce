@@ -5,6 +5,7 @@ Clothing E-commerce fully created with React.js, Redux, and Node.js.
 The e-commerce links to its MongoDB database and has a selection of products.
 <br>
 Admin permissions: with API calls the administrator can add, retrieve, update, and delete products/orders from the database.
+<br>
 User permission: It’s possible to create an account and place an order As well as test payment method thanks to the Stripe implementation. 
 
 
