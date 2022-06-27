@@ -19,7 +19,7 @@ User permission: It’s possible to create an account and place an order As well
 
 ![Homepage](https://user-images.githubusercontent.com/91989821/150238420-b6969151-1d57-4695-935c-ecd83402edbe.png)
 
-### Register 
+- ### Register 
 
 ![register](https://user-images.githubusercontent.com/91989821/150238446-c0f35480-9fee-42b4-af53-312ff07480e6.png)
 
