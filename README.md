@@ -15,7 +15,7 @@ User permission: It’s possible to create an account and place an order As well
 
 ## Have a look at some pics from the website
 
-### Homepage
+- ### Homepage
 
 ![Homepage](https://user-images.githubusercontent.com/91989821/150238420-b6969151-1d57-4695-935c-ecd83402edbe.png)
 
