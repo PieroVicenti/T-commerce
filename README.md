@@ -33,7 +33,7 @@ User permission: It’s possible to create an account and place an order As well
 
 (Images have been taken from Pexels.com)
 
-### Admin section
+- ### Admin section
 
 As the website is still work in progress, in the near future an Admin page will be added,
 stats about the products and the orders will be displayed
