@@ -27,7 +27,7 @@ User permission: It’s possible to create an account and place an order As well
 
 ![login](https://user-images.githubusercontent.com/91989821/150238452-63f9ab7a-f586-4828-966e-6684c1ee5da8.png)
 
-### Cart
+- ### Cart
 
 ![cart](https://user-images.githubusercontent.com/91989821/150238775-e6e7b2fe-2538-42b8-b1f3-0e8f2cc375ae.png)
 
