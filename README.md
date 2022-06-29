@@ -31,7 +31,7 @@ User permission: It’s possible to create an account and place an order As well
 
 ![cart](https://user-images.githubusercontent.com/91989821/150238775-e6e7b2fe-2538-42b8-b1f3-0e8f2cc375ae.png)
 
-(Images have been taken from Pexels.com)
+-(Images have been taken from Pexels.com)
 
 - ### Admin section
 
