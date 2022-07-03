@@ -36,4 +36,4 @@ User permission: It’s possible to create an account and place an order As well
 - ### Admin section
 
 As the website is still work in progress, in the near future an Admin page will be added,
-stats about products and the completed orders will be displayed
+stats about products and the completed orders will be displayed.
