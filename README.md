@@ -9,6 +9,7 @@ Admin permissions: with API calls the administrator can add, retrieve, update, a
 User permission: It’s possible to create an account and place an order As well as completing the order simualating a payment thanks to Stripe implementation. 
 
 ## Programming Languages
+-JS
 
 ## Api calls
 
